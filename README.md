@@ -1,1 +1,0 @@
-# tenpercent.github.io
