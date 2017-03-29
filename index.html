@@ -5,11 +5,15 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Biography</h1>
-  <div style="padding-bottom:15px;">
-    <div style="display:inline-block;width:20%;vertical-align:middle;">
+  <div style="display:inline-block;padding-bottom:15px;">
+    <!-- Photo -->
+    <div style="width:20%;vertical-align:middle;">
       <img src="blobs/avatar.png" alt="The author's portrait">
     </div>
-    <div style="display:inline-block;width:79%;vertical-align:top;">
+    <!-- Padding -->
+    <div style="width:5%;"></div>
+    <!-- Bio -->
+    <div style="width:73%;vertical-align:top;">
       I am a Ph.D. student in the Computer Science department at the University of Texas at  San  Antonio starting Fall 2016.
       I have earned my M.Sc. in Computational Mathematics from  Lomonosov  Moscow  State University, Russia in 2015.
       I am currently working on Web-search, Large-scale In-memory Storage Engines, and Data Integration.
@@ -47,20 +51,4 @@ layout: default
       North East Database Day 2017, MIT, Cambridge, MA.
     </li>
   </ul>
-  <!-- <h1 class="page-heading">Posts</h1> -->
-
-  <!-- <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul> -->
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-
 </div>
