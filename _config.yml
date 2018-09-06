@@ -1,8 +1,8 @@
 # Site settings
 title: Maksim Podkorytov's webpage
 author: Maksim Podkorytov
-email: maksim.podkorytov@utsa.edu
-date: November 21, 2017
+email: podkoryt at cs-dot-fsu-dot-edu
+date: September 6, 2018
 description: > # this means to ignore newlines until "baseurl:"
   A personal webpage
 baseurl: "" # the subpath of your site, e.g. /blog/
