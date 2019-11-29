@@ -6,7 +6,7 @@ date: November 29, 2019
 description: > # this means to ignore newlines until "baseurl:"
   A personal webpage
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://tenpercent.github.io" # the base hostname & protocol for your site
+url: "https://maksim.page" # the base hostname & protocol for your site
 google_analytics: UA-98156699-1
 # Build settings
 markdown: kramdown
