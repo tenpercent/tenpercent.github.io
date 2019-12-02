@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maksim Podkorytov&#39;s webpage</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maksim Podkorytov&#39;s webpage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Maksim Podkorytov&#39;s webpage</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid.Poly: A Consolidated Interactive Analytical Polystore System</title>
+      <link>/publication/hybridpoly-icde/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridpoly-icde/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Anecdotal evidence suggests the Variety of Big data is one of the most challenging problems in Computer Science research today. First, Big data arrives from a myriad of data sources, hence its shape and flavor differ. Second, hundreds of different Big data management systems support different APIs, storage/indexing schemes, and expose data to the users through their data model lens, each specific to their own system. All of these offer a significant impediment for Big data users who just want an easy to use interface to all relevant data regardless of its shape, format, size, and a backend system used to store it. Naturally, these differences also complicate development of any analytical algorithms on top of large-scale, heterogeneous datasets. Here we describe HYBRID.POLY, a consolidated in-memory polystore engine, designed to support heterogeneous large-scale data and interactively process complex analytical workloads. We execute and evaluate several popular analytical workloads including Data Fusion, Machine Learning, and Music search at scale.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8731560&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid.Poly: Performance Evaluation of Linear Algebra Analytical Extensions</title>
+      <link>/publication/hybridpoly-eval-bigdata/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridpoly-eval-bigdata/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Anecdotal evidence suggests that Variety is one of the most challenging problems in Big data research. Different data providers use different data models and formats to represent their data, which causes significant impediment to data scientists, whose goal is to make sense of all relevant data regardless of the source. Hybrid.Poly is the analytical polystore data management system designed to make all data accessible to the analyst, oblivious of the source differences. In this paper, we focus on the in-depth analysis and performance evaluation of the Linear Algebra extensions added to the Hybrid.Poly language.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8622646&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data</title>
+      <link>/publication/hybridai-www/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridai-www/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Variety of Big data is a significant impediment for anyone who wants to search inside a large-scale structured dataset. For example, there are millions of tables available on the Web, but the most relevant search result does not necessarily match the keyword query exactly due to a variety of ways to represent the same information. Here we describe Hybrid.AI, a learning search engine for large-scale structured data that uses automatically generated machine learning classifiers and Unified Famous Objects (UFOs) to return the most relevant search results from a large-scale Web tables corpora. We evaluate it over this corpora, collecting 99 queries and their results from users, and observe significant relevance gain.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://dl.acm.org/citation.cfm?doid=3184558.3191600&#34;&gt;ACM&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid.JSON: High-velocity parallel in-memory polystore JSON ingest</title>
+      <link>/publication/hybridjson-bigdata/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridjson-bigdata/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Hybrid.poly is an in-memory polystore data management system, able to ingest various kinds of data and run complex analytical workloads on the ingested data [Gubanov, 2017], [Podkorytov et al., 2017]. Hybrid.JSON, a part of [Gubanov, 2017] focuses on ingesting and querying JSON documents in the polystore.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8258549&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid.poly: An Interactive Large-scale In-memory Analytical Polystore</title>
+      <link>/publication/hybridpoly-dsbda/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridpoly-dsbda/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Anecdotal evidence suggests that the variety of Big data is one of the most challenging problems in Computer Science research today [Stonebraker, 2012], [Ou et al., 2017], [Guo et al., 2016], [Bai et al., 2016]. First, Big data comes at us from a myriad of data sources, hence its shape and flavor differ. Second, hundreds of data management systems which work with Big data support different APIs and storage/indexing schemes while exposing data to the users through the data model lens, specific to each system. These differences can impede work for users who simply want an accessible interface which can handle relevant unstructured data that is stored within a back-end system. Naturally, such discrepancies in formats, sizes, and shapes can also complicate the development of analytical algorithms which could be implemented on top of large-scale, heterogeneous datasets. [Gubanov, 2017b] introduced a consolidated polystore engine, designed to seamlessly ingest and query any type of large-scale data. In this paper we describe a variety of complex analytical workloads that can be processed by such polystore as well as associated research challenges.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8215643&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CognitiveDB: An Intelligent Navigator for Large-scale Dark Structured Data</title>
+      <link>/publication/cognitivedb-www/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cognitivedb-www/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Volume and Variety of Big data [Stonebraker, 2012] are significant impediments for anyone who wants to quickly understand  what  information  is  inside  a  large-scale  dataset. Such  data  is  often  informally  referred  to  as  ’dark’  due  to the difficulties of understanding its contents.  For example, there are millions of structured tables available on the Web, but finding a specific table or summarizing all Web tables to understand what information is available is infeasible or very difficult because of the scale involved. Here we present and demonstrate CognitiveDB, an intelligent cognitive data management system that can quickly summarize the contents of an unexplored large-scale structured dataset, visualize it for interactive navigation, understanding, and support intelligent query processing.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p207.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

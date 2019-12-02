@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dylan Soderman | Maksim Podkorytov&#39;s webpage</title>
+    <link>/authors/dylan-soderman/</link>
+      <atom:link href="/authors/dylan-soderman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dylan Soderman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Dylan Soderman</title>
+      <link>/authors/dylan-soderman/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid.JSON: High-velocity parallel in-memory polystore JSON ingest</title>
+      <link>/publication/hybridjson-bigdata/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridjson-bigdata/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Hybrid.poly is an in-memory polystore data management system, able to ingest various kinds of data and run complex analytical workloads on the ingested data [Gubanov, 2017], [Podkorytov et al., 2017]. Hybrid.JSON, a part of [Gubanov, 2017] focuses on ingesting and querying JSON documents in the polystore.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8258549&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hybrid.poly: An Interactive Large-scale In-memory Analytical Polystore</title>
+      <link>/publication/hybridpoly-dsbda/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridpoly-dsbda/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Anecdotal evidence suggests that the variety of Big data is one of the most challenging problems in Computer Science research today [Stonebraker, 2012], [Ou et al., 2017], [Guo et al., 2016], [Bai et al., 2016]. First, Big data comes at us from a myriad of data sources, hence its shape and flavor differ. Second, hundreds of data management systems which work with Big data support different APIs and storage/indexing schemes while exposing data to the users through the data model lens, specific to each system. These differences can impede work for users who simply want an accessible interface which can handle relevant unstructured data that is stored within a back-end system. Naturally, such discrepancies in formats, sizes, and shapes can also complicate the development of analytical algorithms which could be implemented on top of large-scale, heterogeneous datasets. [Gubanov, 2017b] introduced a consolidated polystore engine, designed to seamlessly ingest and query any type of large-scale data. In this paper we describe a variety of complex analytical workloads that can be processed by such polystore as well as associated research challenges.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8215643&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

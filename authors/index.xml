@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Maksim Podkorytov&#39;s webpage</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/maksim/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maksim/</guid>
+      <description>&lt;p&gt;I am a 4th-year Ph.D. student in the &lt;a href=&#34;https://www.cs.fsu.edu/&#34;&gt;Computer Science&lt;/a&gt; department at Florida State University.
+I have earned my undergraduate degree in &lt;a href=&#34;https://translate.google.com/translate?sl=ru&amp;amp;tl=en&amp;amp;u=http%3A%2F%2Fnuma.math.msu.su%2F&#34;&gt;Computational Mathematics&lt;/a&gt; from Lomonosov Moscow State University, Russia in 2015.
+Prior to starting my Ph.D. studies, I have spent a couple of experient years at Rock Flow Dynamics as a C++ Software Engineer in a team responsible for the MPI aspect of &lt;a href=&#34;https://rfdyn.com/tnavigator/&#34;&gt;tNavigator&lt;/a&gt;,
+a scalable distributed oil and gas reservoir simulator; my undergraduate thesis being a part of that experience.
+During my initial Ph.D. years, I have had a fruitful collaboration with &lt;a href=&#34;http://mgubanov.com&#34;&gt;Dr Michael Gubanov&lt;/a&gt; on polystore databases, search and data integration,
+resulting in a few publications; one in &lt;a href=&#34;https://dblp.org/db/conf/icde/&#34;&gt;ICDE&lt;/a&gt;, a flagship international conference in data engineering.
+Currently I am pursuing my research interests in deep learning applied to natural language processing working with &lt;a href=&#34;https://www.cs.fsu.edu/~liux/&#34;&gt;Dr Xiuwen Liu&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Michael Gubanov</title>
+      <link>/authors/michael-gubanov/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-gubanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anusha Kola</title>
+      <link>/authors/anusha-kola/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/anusha-kola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Geyer</title>
+      <link>/authors/michael-geyer/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-geyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sean Soderman</title>
+      <link>/authors/sean-soderman/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/sean-soderman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caner Enbatan</title>
+      <link>/authors/caner-enbatan/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/caner-enbatan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dylan Soderman</title>
+      <link>/authors/dylan-soderman/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/dylan-soderman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Ortiz</title>
+      <link>/authors/steven-ortiz/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/steven-ortiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manju Priya</title>
+      <link>/authors/manju-priya/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/manju-priya/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

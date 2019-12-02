@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manju Priya | Maksim Podkorytov&#39;s webpage</title>
+    <link>/authors/manju-priya/</link>
+      <atom:link href="/authors/manju-priya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manju Priya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Manju Priya</title>
+      <link>/authors/manju-priya/</link>
+    </image>
+    
+    <item>
+      <title>CognitiveDB: An Intelligent Navigator for Large-scale Dark Structured Data</title>
+      <link>/publication/cognitivedb-www/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/cognitivedb-www/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Volume and Variety of Big data [Stonebraker, 2012] are significant impediments for anyone who wants to quickly understand  what  information  is  inside  a  large-scale  dataset. Such  data  is  often  informally  referred  to  as  ’dark’  due  to the difficulties of understanding its contents.  For example, there are millions of structured tables available on the Web, but finding a specific table or summarizing all Web tables to understand what information is available is infeasible or very difficult because of the scale involved. Here we present and demonstrate CognitiveDB, an intelligent cognitive data management system that can quickly summarize the contents of an unexplored large-scale structured dataset, visualize it for interactive navigation, understanding, and support intelligent query processing.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/companion/p207.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steven Ortiz | Maksim Podkorytov&#39;s webpage</title>
+    <link>/authors/steven-ortiz/</link>
+      <atom:link href="/authors/steven-ortiz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steven Ortiz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.jpg</url>
+      <title>Steven Ortiz</title>
+      <link>/authors/steven-ortiz/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid.JSON: High-velocity parallel in-memory polystore JSON ingest</title>
+      <link>/publication/hybridjson-bigdata/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/hybridjson-bigdata/</guid>
+      <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract:&lt;/h1&gt;
+&lt;p&gt;Hybrid.poly is an in-memory polystore data management system, able to ingest various kinds of data and run complex analytical workloads on the ingested data [Gubanov, 2017], [Podkorytov et al., 2017]. Hybrid.JSON, a part of [Gubanov, 2017] focuses on ingesting and querying JSON documents in the polystore.&lt;/p&gt;
+&lt;h1 id=&#34;full-text&#34;&gt;Full text:&lt;/h1&gt;
+&lt;p&gt;Please refer to &lt;a href=&#34;https://ieeexplore.ieee.org/document/8258549&#34;&gt;IEEE&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
