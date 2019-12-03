@@ -5,12 +5,21 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Maksim Podkorytov&#39;s webpage</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0500</lastBuildDate>
     <image>
       <url>/img/avatar.jpg</url>
       <title>Maksim Podkorytov&#39;s webpage</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0500</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;This site collects anonymized statistics (including location, language, time spent on a page, etc.) about its users with Google Analytics. The gathered statistics will not be shared by its author with any third parties.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hybrid.Poly: A Consolidated Interactive Analytical Polystore System</title>

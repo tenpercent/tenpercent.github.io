@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2019-12-01T00:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2019-12-01T00:00:00+05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/maksim/</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +24,6 @@
   
   <url>
     <loc>/publication/hybridpoly-icde/</loc>
-    <lastmod>2019-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-04-08T00:00:00+00:00</lastmod>
   </url>
   
